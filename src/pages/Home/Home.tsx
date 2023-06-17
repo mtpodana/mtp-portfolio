@@ -18,7 +18,7 @@ const Home: React.FC<any> = () => {
             "type": "Development"
         },
         {
-            "name": "tu3tle portfolio",
+            "name": "Mtp portfolio",
             "detail": "My portfolio",
             "link": "https://tu3tle-portfolio.vercel.app/",
             "type": "Design & Development"
@@ -56,7 +56,7 @@ const Home: React.FC<any> = () => {
                     </div>
 
                     <div className={cx('intro')}>
-                        <h1>I'm Mai Thanh Phuong - tu3tle</h1>
+                        <h1>I'm Mai Thanh Phuong</h1>
                     </div>
 
                     <div className={cx('intro')}>
