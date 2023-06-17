@@ -12,7 +12,7 @@ const Header: React.FC<any> = () => {
     return (
         <div className={cx('wrapper')}>
             <div className={cx('logo')}>
-                <h3>tu3tle</h3>
+                <h3>Sodana</h3>
             </div>
 
             <div className={cx('shortcut')}>
